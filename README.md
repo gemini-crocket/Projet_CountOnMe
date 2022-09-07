@@ -5,6 +5,7 @@ CountOnMe
 ## Resume
 
 This app is used to perform calculations with addition, substractions, multiplications and divisions.
+See the presentation [by clicking here](https://github.com/gemini-crocket/Projet_CountOnMe/blob/master/Heinis_Thomas_2_architecture_de_l'application_092022.pdf).
 
 ## Technical constraints
 
