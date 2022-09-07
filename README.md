@@ -23,6 +23,7 @@ The application must respect the following constraints:
 - Perform a suite of unit and integration tests
 
 <p align="center">
-![forthebadge]
-![uses-swift]
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+![uses-swift](https://user-images.githubusercontent.com/99673568/188829229-33de2391-8b8f-4a15-a3df-10d1821c5542.svg)
 </p>
+
